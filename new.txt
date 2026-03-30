@@ -6,3 +6,5 @@ cd sparta
 
 sudo python3 sparta.py
 sudo apt install python3-pyqt5
+
+sudo python3 sparta.py 
